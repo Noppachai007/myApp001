@@ -1,5 +1,6 @@
 /**
  * @format
+ * noppachai khumtonwong
  */
 
 import {AppRegistry} from 'react-native';
